@@ -85,7 +85,7 @@
 8. Download the zip file of the code and unzip on any of the drive.
 
   
-
+<!-- 
 ### Prerequisites
 
 The Following are the external libraries that needs to be installed using the command prompt in your Windows PC or in terminal in MAC 
@@ -127,4 +127,4 @@ Contributions are what make the open source community such an amazing place to l
 
 ## Sample Images
 
-* ### **Login Page**
+* ### **Login Page** -->
