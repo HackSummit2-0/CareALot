@@ -26,11 +26,7 @@
       <br/>
       <a href="#advantages">Advantages</a>
       <br/>
-      <a href="#disadvantages">Disadvantages</a>
-      <br/>
-      <a href="#modules">modules</a>
-      <ul>
-        <li><a href="#built-using">Built Using</a></li>
+        <li><a href="#TechStacks">Built Using</a></li>
       </ul>
     </li>
     <li>
@@ -39,9 +35,7 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#sample-images">Sample Images</a></li>
-    <li><a href="#flowchart">Flowchart</a></li>
+   
   </ol>
 </details>
 
