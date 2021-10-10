@@ -1,14 +1,8 @@
 # CareALot
 
-# Blood-Bank-Management-System
-<!--
-*** Thanks for checking out the Online Blood Bank Management System. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
+### Disaster-Management
 
-
+**Thanks for checking out our Disaster Management Portal**
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -16,8 +10,7 @@
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 
 
@@ -57,12 +50,20 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is my THIRD project working with Tkinter(GUI), and the first time working with the database😀. This is my 1st year mini project as well. Hope you all like it😁
-
-The software system is an online blood bank management system that helps in managing various blood bank operations effectively. The project consists of a central repository containing various blood deposits available along with associated details. These details include blood type, storage area and date of storage. These details help in maintaining and monitoring the blood deposits. The project is an online system that allows to check weather required blood deposits of a particular group are available in the blood bank. Moreover the system also has added features such as patient name and contacts, blood booking and even need foe certain blood group is posted on the website to find available donors for a blood emergency.
-
+<u>Basically the main goal of disaster management is to reduce the damages and to safeguard common people including physically challenged people during the natural calamities. So here we are trying to create a Portal with the following objectives :-</b></u> 
+                        <ul >
+                       <li> Reducing vulnerability and potential losses of hazard by alerting the necessary info of the upcoming disaster. </li>
+                       <li>Assessing, reviewing and controlling the risk. Applying efficient, effective, sustainable relief (food, shelter and money), medical and other facilities in disaster affected people thus they can survive. </li> 
+                        <li>Reducing the damage, death, sufferings and destruction of any natural and human induced disaster. </li>
+                        <li> Ensuring the availability of local emergency equipment and transportation through NGO's and government helpline numbers.</li>
+                       <li>NGOs organizations can join these website so that the donated money can be given to the people who are in need.</li> 
+                      </ul>
 This online system is made using Python(tkinter) and SQLite3.
 
+### Tech Stacks
+* Html
+*css
+*
 ### Advantages
 * Helps Blood Banks to automate blood doner and depository online.
 * Encourages blood donors to donate.
