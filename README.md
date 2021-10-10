@@ -58,38 +58,33 @@
                         <li> Ensuring the availability of local emergency equipment and transportation through NGO's and government helpline numbers.</li>
                        <li>NGOs organizations can join these website so that the donated money can be given to the people who are in need.</li> 
                       </ul>
-This online system is made using Python(tkinter) and SQLite3.
+
+###  Advantages
+* Prediction about natural calamity
+* Aware people about such calamity so they are less affected
+* Help the affected people by providing food, shelter, clothes etc.
+* Rescue people who are in need.
+* Future prospect will be to ask some NGOs organization to join our website so that they we can donate money to the people who are in need.
 
 ### Tech Stacks
-* Html
-*css
-*
-### Advantages
-* Helps Blood Banks to automate blood doner and depository online.
-* Encourages blood donors to donate.
-* Helps people find blood donors in times of need.
-### Disadvantages
-* Does not keep track of big data.
 
-### Modules
-
-* User: There are two type of user in this project donor and customer. Donor can register to the web site by giving his personal details like name, blood group, address, contact details etc. Once registration is done he can post his donation. Customer can register to the portal and view list of donors who are interested to donate blood. He can also search list of donors based on the blood group. Once he gets suitable donor he can directly contact the donor.
-* Admin: Admin is responsible to post all the information related to blood donation. Admin can view list of voluntary blood donors and help the needy by providing their information to blood bank and patients. Admin can send a blood request to other blood bank in case of emergency or shortage of blood.
-
-### Built Using
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* Python
-* Tkinter
-* SQLite3
-
-
+* FRONTEND:- Html , Css , Javascript, Bootstrap
+* BACKEND:- Nodemon , Node.js 
+* DATABASE:- MySQL
+* VOICE MODULATION :- Annyang.js
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get started, downlod the code from this repo, install all the dependencies and run the project locally using any of your favourite IDE, that it!! Its as simple as that.
-Now go create something new, something intresting 👍.
+1. Install MySql server on your system which will be used as your  local server for project.
+2. Inside Mysql Server create a database name carealot.
+3. Import Dump202110009.sql in Mysql under carealot database.
+4.Download Visual Studio Code
+5. After downloading create a new workspace in your p
+6. Import exp.postman_collection.json file inside postman
+7. Download the zip file of the code and unzip on any of the drive.
+
+  
 
 ### Prerequisites
 
