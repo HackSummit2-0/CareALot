@@ -79,10 +79,10 @@
 1. Install MySql server on your system which will be used as your  local server for project.
 2. Inside Mysql Server create a database name carealot.
 3. Import Dump202110009.sql in Mysql under carealot database.
-4.Download Visual Studio Code
-5. After downloading create a new workspace in your p
-6. Import exp.postman_collection.json file inside postman
-7. Download the zip file of the code and unzip on any of the drive.
+4. Download Visual Studio Code
+5. After downloading open terminal using ctrl+ ~ 
+7. Import exp.postman_collection.json file inside postman
+8. Download the zip file of the code and unzip on any of the drive.
 
   
 
