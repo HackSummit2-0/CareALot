@@ -131,7 +131,7 @@
 
 ![s2](https://user-images.githubusercontent.com/64826389/136905751-328c3f70-77c7-49a3-83f8-d302494b9715.PNG)
 
-###  SiGNUP PAGE
+###  SIGNUP PAGE
 
 ![s3](https://user-images.githubusercontent.com/64826389/136905828-759dbfa3-e818-43bd-b7f7-33a96a531819.PNG)
 
