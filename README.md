@@ -35,6 +35,9 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
+     <li>
+      <a href="#Sample Images">Sample Images</a>
+     </li>
    
   </ol>
 </details>
@@ -121,3 +124,41 @@
 8. After completion it will show localhost connection is succesful.
 9. Add extension Live server in the Visual Studio,
 10. Click on Go Live and the Home Page will open.
+
+## Sample Images
+
+###  HOME PAGE
+
+![s2](https://user-images.githubusercontent.com/64826389/136905751-328c3f70-77c7-49a3-83f8-d302494b9715.PNG)
+
+###  SiGNUP PAGE
+
+![s3](https://user-images.githubusercontent.com/64826389/136905828-759dbfa3-e818-43bd-b7f7-33a96a531819.PNG)
+
+###  SIGNIN PAGE
+
+![s1](https://user-images.githubusercontent.com/64826389/136905978-cdd7a8ce-bba4-45d9-8239-f086697966f6.PNG)
+
+###  SERVICE PAGE
+
+![s5](https://user-images.githubusercontent.com/64826389/136906201-7c525102-296e-4cc6-a1cc-868bf7e5116f.jpeg)
+
+###  LIVE PAGE
+
+![s6](https://user-images.githubusercontent.com/64826389/136906311-75f05540-e68e-454d-bbea-998422fec45c.jpeg)
+
+###  CONTACT PAGE
+
+![s4](https://user-images.githubusercontent.com/64826389/136906395-27279ffe-9128-40a4-8a4f-be8f123adac0.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
