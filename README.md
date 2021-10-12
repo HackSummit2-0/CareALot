@@ -84,27 +84,28 @@
   ```sh
    npm init
   ```
-* npm
+
   ```sh
-   npm i body-parser
+  npm i body-parser
   ```
-* npm
+
   ```sh
-   npm i cors
+  npm i cors
   ```
-* npm
+
   ```sh
-   npm i domino
+  npm i domino
   ```
-* npm
+
   ```sh
-   npm i  express
+  npm i  express
   ```  
-* npm
+
   ```sh
    npm i mysql
   ```  
-* npm
+
+* nodemon
   ```sh
    nodemon services
   ```
