@@ -80,13 +80,34 @@
 8. Open terminal using ctrl+ ~ 
 9. Write the following code:
 
-i)npm init
-ii) npm i body-parser
-iii)npm i cors
-iv)npm i domino
-v)npm i  express
-vi)npm i mysql
-vii)nodemon services
+* npm
+  ```sh
+  npm init
+  ```
+* npm
+  ```sh
+  npm i body-parser
+  ```
+* npm
+  ```sh
+  npm i cors
+  ```
+* npm
+  ```sh
+  npm i domino
+  ```
+* npm
+  ```sh
+  npm i  express
+  ```  
+* npm
+  ```sh
+  npm i mysql
+  ```  
+* npm
+  ```sh
+  nodemon services
+  ```
 
 ![Screenshot (381)](https://user-images.githubusercontent.com/64826389/136729567-b34b4b0f-efba-4bbc-ac6c-70dff82a1caa.png)
 
