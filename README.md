@@ -82,31 +82,31 @@
 
 * npm
   ```sh
-  npm init
+   npm init
   ```
 * npm
   ```sh
-  npm i body-parser
+   npm i body-parser
   ```
 * npm
   ```sh
-  npm i cors
+   npm i cors
   ```
 * npm
   ```sh
-  npm i domino
+   npm i domino
   ```
 * npm
   ```sh
-  npm i  express
+   npm i  express
   ```  
 * npm
   ```sh
-  npm i mysql
+   npm i mysql
   ```  
 * npm
   ```sh
-  nodemon services
+   nodemon services
   ```
 
 ![Screenshot (381)](https://user-images.githubusercontent.com/64826389/136729567-b34b4b0f-efba-4bbc-ac6c-70dff82a1caa.png)
