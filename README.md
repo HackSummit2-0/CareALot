@@ -74,9 +74,28 @@
 2. Inside Mysql Server create a database name carealot.
 3. Import Dump202110009.sql in Mysql under carealot database.
 4. Download Visual Studio Code
-5. After downloading open terminal using ctrl+ ~ 
-7. Import exp.postman_collection.json file inside postman
-8. Download the zip file of the code and unzip on any of the drive.
-9. Run the Code
+5. Download the zip file of the code and unzip on any of the drive.
+6. Open the Hackathon 2.0 folder in Visual Studio
+7. In service.html file change the username and password as per your Mysql server username and password. 
+8. Open terminal using ctrl+ ~ 
+9. Write the following code:
 
-  
+i)npm init
+ii) npm i body-parser
+iii)npm i cors
+iv)npm i domino
+v)npm i  express
+vi)npm i mysql
+vii)nodemon services
+
+![Screenshot (381)](https://user-images.githubusercontent.com/64826389/136729567-b34b4b0f-efba-4bbc-ac6c-70dff82a1caa.png)
+
+
+![Screenshot (382)](https://user-images.githubusercontent.com/64826389/136729585-5e417aaf-e150-4223-b551-3eebf999e24c.png)
+
+
+![Screenshot (383)](https://user-images.githubusercontent.com/64826389/136729605-c1c94fb5-5cff-430a-9ad5-750f2c6b8642.png)
+
+8. After completion it will show localhost connection is succesful.
+9. Add extension Live server in the Visual Studio,
+10. Click on Go Live and the Home Page will open.
