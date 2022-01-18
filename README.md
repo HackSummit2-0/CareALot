@@ -68,7 +68,7 @@
 * FRONTEND:- Html , Css , Javascript, Bootstrap
 * BACKEND:- Nodemon , Node.js 
 * DATABASE:- MySQL
-* VOICE MODULATION :- Annyang.js
+* VOICE MODULATION :- Annyang.js (js library for voice modulation)
 
 <!-- GETTING STARTED -->
 ## Getting Started
